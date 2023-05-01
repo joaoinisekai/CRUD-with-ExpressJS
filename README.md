@@ -1,12 +1,11 @@
 # My first crud with expressJS
 <div>
-  <h2>Back-End</h2>
+  <p>Back-End</p>
   <p>I used express js framework, mysql database with query builder.</p>
 </div>
 <div>
-  <h2>Front-End</h2>
+  <p>Front-End</p>
   <p>I used html, css and bootstrap.</p>
 </div>
 
-<h2>Front-End</h2>
-<p>I used html, css and bootstrap.</p>
+
