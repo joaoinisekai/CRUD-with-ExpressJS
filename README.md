@@ -5,7 +5,7 @@
 </div>
 <div>
   <h2>Front-End</h2>
-  <p>I used html, css and bootstrap.</p>
+  <p>I used html, css, bootstrap and handlebars for connect with backend.</p>
 </div>
 
 
