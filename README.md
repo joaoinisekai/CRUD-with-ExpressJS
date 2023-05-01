@@ -1,7 +1,7 @@
 # My first crud with expressJS
 
-## Back-End
-### I used express js framework, mysql database with query builder.
+<h2>Back-End</h2>
+<p>I used express js framework, mysql database with query builder.</p>
 
-## Fron-End
-### I used html, css and bootstrap.
+<h2>Front-End</h2>
+<p>I used html, css and bootstrap.</p>
