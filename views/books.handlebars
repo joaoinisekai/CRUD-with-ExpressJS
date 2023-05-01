@@ -1,0 +1,15 @@
+<div class="books-container row justify-content-center">
+    <h1>Books Available</h1>
+    <table>
+        <tr>
+            <th>Title</th>
+            <th>Number of Pages</th>
+        </tr> 
+        {{#each books}}
+        <tr>
+            <td><a href="/books/{{ this.id }}">{{this.title}}</a></td>
+            <td>{{this.pageqty}}</td>
+        </tr>
+        {{/each}}
+    </table>    
+</div>

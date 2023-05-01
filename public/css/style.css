@@ -1,0 +1,84 @@
+/* Main */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.link-container {
+    border-bottom: 1px solid rgb(231, 231, 231);
+}
+.link {
+    padding: 15px;
+    margin-left: 40px;
+}
+.link a {
+    text-decoration: none;
+    padding: 20px;
+    color: black;
+}
+#space-line {
+    border: 0.1px solid rgb(233, 233, 233);
+}
+.container {
+    margin-top: 40px;
+}
+
+/* Register your book*/
+.form-container {
+    max-width: 550px;
+    margin: auto;
+    margin-top: 60px;
+}
+.form-control {
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+    border: none;
+    background-color: transparent;
+}
+.form-control input {
+    padding: 5px;
+}
+.form-control label {
+    font-size: 20px;
+}
+.form-container h1 {
+    text-align: center;
+    font-size: 30px;
+}
+.form-container .btn {
+    font-size: 20px;
+    margin-top: 2px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin: 40px;
+    width: 100px;
+    border-radius: 0;
+}
+
+/* My books */
+.books-container {
+    margin: auto;
+    min-width: 400px;
+    max-width: 600px;
+    margin-top: 60px;  
+}
+.books-container h1 {
+    text-align: center;
+}
+.books-container table {
+    margin: 40px;
+}
+tr {
+    border-bottom: 1px solid rgb(231, 231, 231);
+}
+th,td {
+    min-width: 100px;
+    padding: 4px;
+}
+td a {
+    text-decoration: none;
+}
+
